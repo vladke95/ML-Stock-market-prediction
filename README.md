@@ -1,4 +1,4 @@
-# LSTM-Stock-market-prediction
+# RNN-Stock-market-prediction
 
 v0.1.5:
 
