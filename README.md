@@ -1,4 +1,3 @@
-# RNN-Stock-market-prediction
 
 v0.1.5:
 
